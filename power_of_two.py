@@ -20,8 +20,8 @@ def main():
 
             # Calculate the number to the power of two of the number inputted by the user
             for counter in range(user_number_int + 1):
-                print("{}^2 = {}".format(counter, counter**2))
-                power_of_two = counter**2
+                print("{}^2 = {}".format(counter, counter ** 2))
+                power_of_two = counter ** 2
 
             # Display the number to the power of two to the user
             print(
